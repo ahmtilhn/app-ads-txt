@@ -1,5 +1,8 @@
 google.com, pub-8422988604275177, DIRECT, f08c47fec0942fa0
 
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+
 jcprog.com, pub-4518750432, RESELLER
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
 Media.net, 8CUH46N56, RESELLER
